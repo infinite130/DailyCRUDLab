@@ -1,0 +1,14 @@
+# macOS 관련 파일
+.DS_Store
+
+# IntelliJ IDEA 관련 파일
+.idea/
+*.iml
+
+# Node.js 관련 파일
+node_modules/
+npm-debug.log
+
+# Gradle 관련 파일
+.gradle/
+build/
