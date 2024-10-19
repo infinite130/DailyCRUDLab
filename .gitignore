@@ -12,3 +12,6 @@ npm-debug.log
 # Gradle 관련 파일
 .gradle/
 build/
+
+# Spring Boot 관련 파일 (application.yml 추가)
+application.yml
